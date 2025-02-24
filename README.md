@@ -8,7 +8,7 @@ Subtract two numbers
 Multiply two numbers
 Divide two numbers
 
-How to Use
+How to use:
 
 Run the script using Python.
 
